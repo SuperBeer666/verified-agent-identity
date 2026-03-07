@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: superbeer666
 
 on:
   workflow_dispatch:
