@@ -4,13 +4,13 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'cloud'
+        description: 'SuperBeer666'
         required: true
-        default: 'cloud'
+        default: 'SuperBeer666'
       agent_description:
-        description: 'cloud'
+        description: 'SuperBeer666'
         required: true
-        default: 'cloud AI Agent'
+        default: 'SuperBeer666 AI Agent'
 
 jobs:
   verify:
